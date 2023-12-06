@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "image": "/1.png",
+      "title": "Cross-Device Sync",
+      "description": "Keep your schedule in sync across all your devices, ensuring seamless access to your calendar, events, and tasks wherever you go."
+    },
+    {
+      "id": 2,
+      "image": "/2.png",
+      "title": "Auto Event Import",
+      "description": "Automatically import events from emails, social media, and other sources, so you never miss a beat or have to manually input details."
+    },
+    {
+      "id": 3,
+      "image": "/3.png",
+      "title": "Task Delegation",
+      "description": "Easily assign tasks to team members, family, or friends, promoting shared responsibility and seamless collaboration."
+    },
+    {
+      "id": 4,
+      "image": "/4.png",
+      "title": "Voice Command Integration",
+      "description": "Quickly create events, set reminders, or reschedule appointments with voice commands, thanks to compatibility with popular virtual assistants."
+    },
+    {
+      "id": 5,
+      "image": "/5.png",
+      "title": "Customizable Alerts",
+      "description": "Personalize notification types and timings for events, tasks, and goals, ensuring you stay on track and informed without feeling overwhelmed."
+    },
+    {
+      "id": 6,
+      "image": "/6.png",
+      "title": "Privacy Protection",
+      "description": "Safeguard your personal information and event details with our robust security measures, including end-to-end encryption and optional password protection."
+    }
+  ]
+  

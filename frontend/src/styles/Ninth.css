@@ -1,0 +1,27 @@
+.ninth {
+    text-align: center;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+.center-text {
+    margin-bottom: 40px;
+}
+
+.center-text1 {
+    font-size: 1rem;
+    background-color: #f1f2f4;
+    padding: 8px 20px;
+    display: inline-block;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    font-weight: 600;
+}
+
+.faq-text {
+    font-size: 4rem;
+    font-weight: 900;
+    color: #2e2e2e;
+    margin-bottom: 2rem;
+}
